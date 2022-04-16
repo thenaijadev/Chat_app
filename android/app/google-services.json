@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099056342220",
+    "project_id": "chatapp-30641",
+    "storage_bucket": "chatapp-30641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099056342220:android:99ecbdd4ed0c129e008e69",
+        "android_client_info": {
+          "package_name": "com.the_naija_dev.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099056342220-itoqrmmo2fp8btrmb7r1ihdg690jk6dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-xA5Y9p1ZZdIiClsntPKjBVtP6lH-Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099056342220-itoqrmmo2fp8btrmb7r1ihdg690jk6dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
